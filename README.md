@@ -2,13 +2,13 @@
 
 Para la generación del laberinto se usaron las paredes proporcionadas en la práctica, replicándolas para formar la siguiente estructura:
 
-![img1](/Imagenes/i1.png)
+![img1](/Imagenes/i1.jpg)
 
 # Crear la GVR Camera Rig
 
 Para este punto se agrego el objeto GvrEditorEmularor como padre de la cámara agregada a la escena, ubicados en la misma posición.
 
-![img2](/Imagenes/i2.png)
+![img2](/laberinto/Imagenes/i2.png)
 
 # Preparando la escena para la interacción
 
